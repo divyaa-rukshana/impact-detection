@@ -1,0 +1,2 @@
+gru     runs=5 | AUC-PR 0.939±0.007 | AUC-ROC 0.995±0.001 | prec@95%rec 0.810±0.021
+hiknet  runs=5 | AUC-PR 0.938±0.004 | AUC-ROC 0.997±0.001 | prec@95%rec 0.813±0.011
